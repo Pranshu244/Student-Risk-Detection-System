@@ -346,15 +346,18 @@ login.html
 ---
 
 # Pictures
-
 ## PC View
 
-(Add screenshots here)
+![image alt](https://github.com/Pranshu244/Student-Risk-Detection-System/blob/c17a11192733d8e308adc3e114c66483eaa67d67/Pictures/Login%20Page.png)
 
----
+![image alt](https://github.com/Pranshu244/Student-Risk-Detection-System/blob/c17a11192733d8e308adc3e114c66483eaa67d67/Pictures/Dashboard.png)
 
-## Mobile View
+![image alt](https://github.com/Pranshu244/Student-Risk-Detection-System/blob/c17a11192733d8e308adc3e114c66483eaa67d67/Pictures/Dashboard%202.png)
 
-(Add screenshots here)
+![image alt](https://github.com/Pranshu244/Student-Risk-Detection-System/blob/c17a11192733d8e308adc3e114c66483eaa67d67/Pictures/Identification%20of%20at%20risk%20students.png)
+
+![image alt](https://github.com/Pranshu244/Student-Risk-Detection-System/blob/c17a11192733d8e308adc3e114c66483eaa67d67/Pictures/Identification%20of%20at%20risk%20students2.png)
+
+![image alt](https://github.com/Pranshu244/Student-Risk-Detection-System/blob/c17a11192733d8e308adc3e114c66483eaa67d67/Pictures/Student's%20table%20zoom%20view.png)
 
 ---
