@@ -285,7 +285,7 @@ login.html
 2. Locate the following line:
 
 ```javascript
-window.location.href = "https://example-name.ngrok-free.dev";
+window.location.href = "YOUR_NGROK_LINK";
 ```
 
 3. Replace the placeholder URL with your generated ngrok URL
@@ -293,7 +293,7 @@ window.location.href = "https://example-name.ngrok-free.dev";
 Example:
 
 ```javascript
-window.location.href = "https://appallingly-ungrabbing-janis.ngrok-free.dev";
+window.location.href = "https://example-name.ngrok-free.dev";
 ```
 
 ---
