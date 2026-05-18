@@ -228,8 +228,9 @@ student_risk_detection_app.ipynb
 
 Before running the notebook:
 
-1. Open the **`assets`** folder
-2. Upload all frontend asset files into the Colab session
+1. Open the **`assets`** folder  
+2. Upload **`web_bg.png`** into your Colab session  
+3. Keep the remaining asset files inside the `assets` folder in the same directory as `login.html`
 
 These assets are required for:
 - Login page rendering
