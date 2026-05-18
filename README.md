@@ -229,8 +229,8 @@ student_risk_detection_app.ipynb
 Before running the notebook:
 
 1. Open the **`assets`** folder  
-2. Upload **`web_bg.png`** into your Colab session  
-3. Keep the remaining asset files inside the `assets` folder in the same directory as `login.html`
+2. Upload **`web_bg.png`** and **`logo.png`** into your Colab session, as they are required by the Streamlit frontend  
+3. Keep all asset files inside the `assets` folder alongside `login.html`, since the login interface also depends on them
 
 These assets are required for:
 - Login page rendering
