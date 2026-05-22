@@ -1,4 +1,4 @@
-# Student_Risk_Detection_System
+# Student_at_Risk_Detection_System
 
 AI-powered student risk detection and academic anomaly analysis system using Isolation Forest, K-Means clustering, and Autoencoder-based reconstruction error to proactively identify at-risk students through behavioral and performance analytics.
 
